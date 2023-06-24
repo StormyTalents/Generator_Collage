@@ -1,5 +1,5 @@
 # CollageGenerator
-Intelligently draws a message with images.
+<h2>Intelligently draws a message with images.</h2>
 ![collage_big](https://github.com/StormyTalents/Generator_Collage/assets/98739389/6012d25c-6b8c-4cb2-b919-72bd0e6a42ba)
 
 <h3>Collage Generator uses machine learning techniques, such as K-Means Clustering, to determine which images should be used to draw the message and which to use as the background.</h3>
